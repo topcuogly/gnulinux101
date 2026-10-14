@@ -1,4 +1,4 @@
-# GNU/Linux 101
+# GNU/Linux101
 
 ## English
 
@@ -8,11 +8,11 @@ This game was developed as part of GaziSiber's GNU/Linux101 training program. Vi
 
 **[GNU/Linux101 YouTube Playlist](https://www.youtube.com/playlist?list=PLGvhlc2Qg6j8)**
 
-**GNU/Linux 101** is an open-source, 25-level educational game designed to develop fundamental terminal skills through hands-on practice.
+**GNU/Linux101** is an open-source, 25-level educational game designed to develop fundamental terminal skills through hands-on practice.
 
 Built with Bash, the game provides a controlled terminal environment where players complete tasks and progress through increasingly challenging problems.
 
-The project was developed as part of the GNU/Linux 101 training program organized by the Free Software and Linux Team of GaziSiber at Gazi University.
+The project was developed as part of the GNU/Linux101 training program organized by the Free Software and Linux Team of GaziSiber at Gazi University.
 
 ### Getting Started
 
@@ -54,11 +54,11 @@ Bu oyun, GaziSiber'in GNU/Linux101 eğitimi kapsamında geliştirilmiştir. Teme
 
 **[GNU/Linux101 YouTube Oynatma Listesi](https://www.youtube.com/playlist?list=PLGvhlc2Qg6j8)**
 
-**GNU/Linux 101**, temel terminal becerilerini uygulamalı olarak geliştirmek amacıyla hazırlanmış, 25 seviyeden oluşan açık kaynaklı bir eğitim oyunudur.
+**GNU/Linux101**, temel terminal becerilerini uygulamalı olarak geliştirmek amacıyla hazırlanmış, 25 seviyeden oluşan açık kaynaklı bir eğitim oyunudur.
 
 Bash ile geliştirilen oyun, kullanıcıların kontrollü bir terminal ortamında görevleri tamamlayarak ilerlemesini sağlar. Her seviyede farklı bir problem sunulur ve öğrenilen bilgilerin bağımsız olarak uygulanması hedeflenir.
 
-Proje, Gazi Üniversitesi Siber Güvenlik ve AR-GE Topluluğu (GaziSiber) bünyesindeki Özgür Yazılım ve Linux Ekibi'nin GNU/Linux 101 eğitimleri kapsamında hazırlanmıştır.
+Proje, Gazi Üniversitesi Siber Güvenlik ve AR-GE Topluluğu (GaziSiber) bünyesindeki Özgür Yazılım ve Linux Ekibi'nin GNU/Linux101 eğitimleri kapsamında hazırlanmıştır.
 
 ### Başlangıç
 
