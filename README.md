@@ -2,6 +2,12 @@
 
 ## English
 
+### Training Materials
+
+This game was developed as part of GaziSiber's GNU/Linux101 training program. Video lessons covering fundamental concepts, terminal usage, and puzzle solutions are available on YouTube.
+
+**[GNU/Linux101 YouTube Playlist](https://www.youtube.com/playlist?list=PLGvhlc2Qg6j8)**
+
 **GNU/Linux 101** is an open-source, 25-level educational game designed to develop fundamental terminal skills through hands-on practice.
 
 Built with Bash, the game provides a controlled terminal environment where players complete tasks and progress through increasingly challenging problems.
@@ -41,6 +47,12 @@ Developed with GPT-6.1 Sol
 ---
 
 ## Türkçe
+
+### Eğitim Materyalleri
+
+Bu oyun, GaziSiber'in GNU/Linux101 eğitimi kapsamında geliştirilmiştir. Temel kavramları, terminal kullanımını ve bulmaca çözümlerini kapsayan video derslere YouTube üzerinden erişebilirsiniz.
+
+**[GNU/Linux101 YouTube Oynatma Listesi](https://www.youtube.com/playlist?list=PLGvhlc2Qg6j8)**
 
 **GNU/Linux 101**, temel terminal becerilerini uygulamalı olarak geliştirmek amacıyla hazırlanmış, 25 seviyeden oluşan açık kaynaklı bir eğitim oyunudur.
 
