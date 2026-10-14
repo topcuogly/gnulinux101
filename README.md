@@ -42,7 +42,7 @@ For launch options, use `--help`. A detailed in-game guide is available through 
 
 The game is not a fully isolated system sandbox. When specifying a custom save directory, avoid directories containing personal files.
 
-Developed with GPT-6.1 Sol
+Generated with GPT-6.1 Sol
 
 ---
 
@@ -94,4 +94,4 @@ Komut satırı seçenekleri için `--help` parametresini kullanabilirsiniz. Oyun
 
 Oyun, tam kapsamlı bir sistem yalıtımı sağlamaz. Özel kayıt dizini kullanırken kişisel dosyalarınızın bulunduğu bir dizini seçmeyin.
 
-GPT-6.1 Sol ile geliştirilmiştir.
+GPT-6.1 Sol ile oluşturulmuştur.
